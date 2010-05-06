@@ -1,0 +1,78 @@
+t1-urw-garamondno8 (0.0.20050707-3) unstable; urgency=low
+
+  * new upstream packager; thanks Kevin.
+  * rename source package.
+  * debian/*.{scale,defoma}: rename for consistency.
+  * debian/control:
+    + change section to fonts.
+    + put it into non-free.
+    + include homepage field.
+    + upgrade Standards-Version to 3.8.3 (no changes).
+    + include comment (allowed by Debian Policy).
+    + include DM-U-A: yes, as recommended by Norbert Preining.
+  * debian/changelog: fix e-mail entry for the unreleased version.
+  * debian/copyright:
+    + include description of why the package is in non-free.
+    + fix reference to unversioned GPL.
+    + add copyright for my modifications.
+  * debian/watch:
+    + "upgrade" to version 3, remove comments and fix the URL.
+    + leave it commented, as CTAN doesn't seem to include versions.
+  * debian/README.Debian:
+    + fix the UTF-8 encoding. Thanks Danai.
+    + include a comment that the original unpacking was made by Kevin.
+    + corrected my e-mail address.
+  * debian/{control,rules}:
+    + kill defoma
+  * debian/control:
+    + change to source format 3.0 (quilt).
+    + upgrade Standards-Version to 3.8.4, with no changes needed.
+
+ -- Rogério Brito <rbrito@ime.usp.br>  Thu, 06 May 2010 06:02:05 -0300
+
+urw-garamond-no8 (0.0.20050707-2) unstable; urgency=low
+
+  * debian/control: added missing 's' to fonts in package description
+    headline in the control file
+  * moved defoma and tex-common to Build-Depends-Indep
+  * debian/copyright: made the statement about the copyright of the files
+    connected to the Debian packaging broader
+  * debian/urw-garamond-no8.defoma-hints: declared ugm Regular fonts bold and
+    Medium ones medium weighted
+  * converted X-FontName entries to lowercase
+  * added charsets microsoft-cp1252, iso10646-1 and adobe-standard
+  * debian/rules: moved comment to the right place
+  * added make a link from the files in $(TEXDOCSRC) to
+    /usr/share/doc/$(package)
+  * repaired quoting of variables (again) so that building in a path with
+    spaces works
+  * debian/urw-garamond-no8.scale: regenerated to match the new defoma-hints
+    file
+
+ -- Kevin Bube <k.bube@web.de>  Wed, 14 Jun 2006 19:40:56 +0200
+
+urw-garamond-no8 (0.0.20050707-1) unstable; urgency=low
+
+  * Renamed package
+  * Added full license texts to copyright file
+  * Added quotes to $FOOSRC variables in case someone has a current
+    directory with whitespaces
+  * Removed DH_COMPAT from rules
+  * Removed build-stamp target from rules
+  * Added defoma and tex-common to Build-Depends
+  * Changed Build-Depends for debhelper to >=5.0.35 (see #366234 for
+    the reason)
+  * Added defoma to Depends
+  * Use old /etc/X11/fonts path (see #366234)
+  * rewrote urw-garamond-no8.defoma-hints
+  * rewrote urw-garamond-no8.scale
+
+ -- Kevin Bube <k.bube@web.de>  Thu,  1 Jun 2006 21:46:32 +0200
+
+
+urw-garamond (0.0.20050707-1) unstable; urgency=low
+
+  * Initial release.
+  * My first Debian package :-)
+	
+ -- Kevin Bube <k.bube@web.de>  Sun, 14 May 2006 00:24:24 +0200

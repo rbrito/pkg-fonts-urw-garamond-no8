@@ -1,0 +1,11 @@
+t1-urw-garamondno8 for Debian
+-----------------------------
+
+This package was created from the original file located at
+ftp://dante.ctan.org/tex-archive/nonfree/fonts/urw/garamond.zip
+
+The original zip file contains two other zip files. Both were extracted
+and a single gzip'ed tar file was created for the Debian archive.
+(Done by Kevin Bube)
+
+ -- Rogério Brito <rbrito@ime.usp.br>, Fri, 12 Jun 2009 00:17:32 -0300
