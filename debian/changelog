@@ -1,3 +1,9 @@
+t1-urw-garamondno8 (0.0.20050707-4) unstable; urgency=low
+
+  * debian/control: Change the name of the binary package.
+
+ -- Rogério Brito <rbrito@ime.usp.br>  Tue, 17 Jan 2012 15:37:22 -0200
+
 t1-urw-garamondno8 (0.0.20050707-3) unstable; urgency=low
 
   * new upstream packager; thanks Kevin.
