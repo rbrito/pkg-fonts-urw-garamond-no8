@@ -1,14 +1,4 @@
 #!/usr/bin/make -f
-#
-# rules file for Debian package t1-urw-garmondno8.
-#
-# 1.6.2006 Kevin Bube <k.bube@web.de>
-#
-# 2009-06-12: changed by Rogério Brito <rbrito@ime.usp.br>
-#
-# Uncomment this to turn on verbose mode.
-#export DH_VERBOSE=1
-
 
 package=fonts-urw-garamond-no8
 
