@@ -1,3 +1,12 @@
+t1-urw-garamondno8 (0.0.20050707-5~1.gbp4e3ae8) UNRELEASED; urgency=low
+
+  ** SNAPSHOT build @4e3ae8d1ae4977ded1a8f87218809ed5155f5f05 **
+
+  * Rename debian/*urw-garamond*.scale file to match package name.
+  * debian/rules: Remove unnecessary comment.
+
+ -- Rogério Brito <rbrito@ime.usp.br>  Sat, 04 Aug 2012 20:42:17 -0300
+
 t1-urw-garamondno8 (0.0.20050707-4) unstable; urgency=low
 
   * debian/control: Change the name of the binary package.
