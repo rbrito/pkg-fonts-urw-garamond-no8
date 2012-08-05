@@ -7,7 +7,7 @@ Build-Depends:
 Build-Depends-Indep:
  tex-common
 DM-Upload-Allowed: yes
-Standards-Version: 3.8.4
+Standards-Version: 3.9.3
 Homepage: http://tug.ctan.org/tex-archive/fonts/urw/garamond/
 
 Package: fonts-urw-garamond-no8
