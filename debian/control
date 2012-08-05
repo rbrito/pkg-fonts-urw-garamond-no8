@@ -5,7 +5,7 @@ Maintainer: Rogério Brito <rbrito@ime.usp.br>
 Build-Depends:
  debhelper (>= 7)
 Build-Depends-Indep:
- tex-common (>= 0.16)
+ tex-common
 DM-Upload-Allowed: yes
 Standards-Version: 3.8.4
 Homepage: http://tug.ctan.org/tex-archive/fonts/urw/garamond/
