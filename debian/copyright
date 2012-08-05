@@ -2,11 +2,11 @@ Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: URW Garamond No.8 fonts
 Source: http://tug.ctan.org/tex-archive/fonts/urw/garamond/
 
-Files: *.afm, *.pfb
+Files: *.afm *.pfb
 Copyright: 2000 by (URW)++ Design & Development
 License: AFPL
 
-Files: doc/*, dvips/*, fonts/*, tex/*
+Files: doc/* dvips/* fonts/* tex/*
 Copyright: 2005 Walter Schmidt
 License: LPPL-1.3+
 
