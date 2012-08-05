@@ -3,7 +3,7 @@ Section: non-free/fonts
 Priority: optional
 Maintainer: Rogério Brito <rbrito@ime.usp.br>
 Build-Depends:
- debhelper (>= 5.0.35)
+ debhelper (>= 7)
 Build-Depends-Indep:
  tex-common (>= 0.16)
 DM-Upload-Allowed: yes
