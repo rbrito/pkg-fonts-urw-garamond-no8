@@ -1,6 +1,4 @@
-fonts-urw-garamond-no8 (0.0.20050707-5~4.gbp5ba14a) UNRELEASED; urgency=low
-
-  ** SNAPSHOT build @5ba14ac7a5492fd51bee1dda1f12877570c559c2 **
+fonts-urw-garamond-no8 (0.0.20050707-5) unstable; urgency=low
 
   * Rename debian/*urw-garamond*.scale file to match package name.
   * debian/rules: Remove unnecessary comment.
@@ -14,7 +12,7 @@ fonts-urw-garamond-no8 (0.0.20050707-5~4.gbp5ba14a) UNRELEASED; urgency=low
     + Upgrade to Copyright Format 1.0.
     + Fix lintian's comma-separated-files-in-dep5-copyright.
 
- -- Rogério Brito <rbrito@ime.usp.br>  Sat, 04 Aug 2012 20:42:17 -0300
+ -- Rogério Brito <rbrito@ime.usp.br>  Sun, 05 Aug 2012 16:36:16 -0300
 
 t1-urw-garamondno8 (0.0.20050707-4) unstable; urgency=low
 
