@@ -1,6 +1,6 @@
-fonts-urw-garamond-no8 (0.0.20050707-5~2.gbpbb4b6f) UNRELEASED; urgency=low
+fonts-urw-garamond-no8 (0.0.20050707-5~3.gbp8935b2) UNRELEASED; urgency=low
 
-  ** SNAPSHOT build @bb4b6fe0505097a8206b0c2058d3f27bf0f1cc22 **
+  ** SNAPSHOT build @8935b2c7535cfebaf5324e950e5ca79fd1ef98a0 **
 
   * Rename debian/*urw-garamond*.scale file to match package name.
   * debian/rules: Remove unnecessary comment.
@@ -9,6 +9,9 @@ fonts-urw-garamond-no8 (0.0.20050707-5~2.gbpbb4b6f) UNRELEASED; urgency=low
   * debian/control: Unversion build-dependency on tex-common.
   * debian/control: Update standards-version to 3.9.3.
   * debian/{changelog,control}: Rename the source package.
+  * debian/copyright:
+    + Adapt to machine-readable format.
+    + Upgrade to Copyright Format 1.0.
 
  -- Rogério Brito <rbrito@ime.usp.br>  Sat, 04 Aug 2012 20:42:17 -0300
 
