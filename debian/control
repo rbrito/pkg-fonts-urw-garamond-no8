@@ -2,15 +2,18 @@ Source: t1-urw-garamondno8
 Section: non-free/fonts
 Priority: optional
 Maintainer: Rogério Brito <rbrito@ime.usp.br>
-Build-Depends: debhelper (>= 5.0.35)
-Build-Depends-Indep: tex-common (>= 0.16)
+Build-Depends:
+ debhelper (>= 5.0.35)
+Build-Depends-Indep:
+ tex-common (>= 0.16)
 DM-Upload-Allowed: yes
 Standards-Version: 3.8.4
 Homepage: http://tug.ctan.org/tex-archive/fonts/urw/garamond/
 
 Package: fonts-urw-garamond-no8
 Architecture: all
-Depends: ${misc:Depends}
+Depends:
+ ${misc:Depends}
 Description: scalable PostScript fonts from the Garamond family
  The URW Garamond No. 8 font family is URW's version of the
  Garamond typeface. These scalable fonts are shipped in the
