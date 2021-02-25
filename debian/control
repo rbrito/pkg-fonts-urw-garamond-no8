@@ -14,6 +14,7 @@ Package: fonts-urw-garamond-no8
 Architecture: all
 Depends:
  ${misc:Depends}
+Multi-Arch: foreign
 Description: scalable PostScript fonts from the Garamond family
  The URW Garamond No. 8 font family is URW's version of the
  Garamond typeface. These scalable fonts are shipped in the
