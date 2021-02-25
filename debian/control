@@ -8,6 +8,8 @@ Build-Depends-Indep:
  tex-common
 Standards-Version: 3.9.3
 Homepage: http://tug.ctan.org/tex-archive/fonts/urw/garamond/
+Vcs-Browser: https://github.com/rbrito/pkg-fonts-urw-garamond-no8
+Vcs-Git: https://github.com/rbrito/pkg-fonts-urw-garamond-no8
 
 Package: fonts-urw-garamond-no8
 Architecture: all
