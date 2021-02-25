@@ -3,7 +3,7 @@ Section: non-free/fonts
 Priority: optional
 Maintainer: Rogério Brito <rbrito@gmail.com>
 Build-Depends:
- debhelper (>= 7)
+ debhelper (>= 12~)
 Build-Depends-Indep:
  tex-common
 Standards-Version: 4.1.4
