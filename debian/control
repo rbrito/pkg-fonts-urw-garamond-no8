@@ -6,7 +6,6 @@ Build-Depends:
  debhelper (>= 7)
 Build-Depends-Indep:
  tex-common
-DM-Upload-Allowed: yes
 Standards-Version: 3.9.3
 Homepage: http://tug.ctan.org/tex-archive/fonts/urw/garamond/
 
