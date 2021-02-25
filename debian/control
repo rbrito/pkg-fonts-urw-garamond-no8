@@ -6,6 +6,7 @@ Build-Depends: debhelper-compat (= 12)
 Build-Depends-Indep:
  tex-common
 Standards-Version: 4.5.1
+Rules-Requires-Root: no
 Homepage: http://tug.ctan.org/tex-archive/fonts/urw/garamond/
 Vcs-Browser: https://github.com/rbrito/pkg-fonts-urw-garamond-no8
 Vcs-Git: https://github.com/rbrito/pkg-fonts-urw-garamond-no8.git
