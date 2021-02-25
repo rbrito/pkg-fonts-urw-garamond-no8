@@ -5,4 +5,4 @@ fonts/tfm/urw/garamond/*.tfm	usr/share/texmf/fonts/tfm/urw/garamond
 dvips/config/*			usr/share/texmf/fonts/map/dvips/ugm
 tex/latex/ugm/*			usr/share/texmf/tex/latex/ugm
 doc/fonts/urw/*			usr/share/texmf/doc/fonts/urw
-debian/fonts-urw-garamond-no8.scale	usr/share/fonts/X11/Type1
+debian/fonts-urw-garamond-no8.scale	etc/X11/fonts/Type1
