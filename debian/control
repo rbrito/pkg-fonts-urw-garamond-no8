@@ -1,7 +1,7 @@
 Source: fonts-urw-garamond-no8
 Section: non-free/fonts
 Priority: optional
-Maintainer: Rogério Brito <rbrito@ime.usp.br>
+Maintainer: Rogério Brito <rbrito@gmail.com>
 Build-Depends:
  debhelper (>= 7)
 Build-Depends-Indep:
