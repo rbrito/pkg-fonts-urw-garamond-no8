@@ -1,0 +1,8 @@
+*.pfb				usr/share/texmf/fonts/type1/urw/garamond
+*.afm				usr/share/texmf/fonts/afm/urw/garamond
+fonts/vf/urw/garamond/*.vf	usr/share/texmf/fonts/vf/urw/garamond
+fonts/tfm/urw/garamond/*.tfm	usr/share/texmf/fonts/tfm/urw/garamond
+dvips/config/*			usr/share/texmf/fonts/map/dvips/ugm
+tex/latex/ugm/*			usr/share/texmf/tex/latex/ugm
+doc/fonts/urw/*			usr/share/texmf/doc/fonts/urw
+debian/fonts-urw-garamond-no8.scale	usr/share/fonts/X11/Type1
