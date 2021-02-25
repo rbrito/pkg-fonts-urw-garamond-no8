@@ -4,6 +4,3 @@
 
 override_dh_installtex:
 	dh_installtex map=Map,ugm.map
-
-override_dh_installdocs:
-	dh_installdocs README.garamond urw-garamond.pdf
