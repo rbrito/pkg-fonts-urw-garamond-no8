@@ -58,7 +58,7 @@ clean: debian/control
 	dh_clean
 
 install-stamp:
-	dh_testdir 
+	dh_testdir
 	dh_testroot
 	dh_installdirs $(AFMDST) $(PFBDST) $(VFDST) $(TFMDST) \
 		$(TEXDST) $(DVIPSCONFIGDST) $(TEXDOCDST) \

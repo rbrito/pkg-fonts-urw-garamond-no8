@@ -96,5 +96,5 @@ urw-garamond (0.0.20050707-1) unstable; urgency=low
 
   * Initial release.
   * My first Debian package :-)
-	
+
  -- Kevin Bube <k.bube@web.de>  Sun, 14 May 2006 00:24:24 +0200
