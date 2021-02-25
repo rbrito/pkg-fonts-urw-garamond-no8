@@ -2,8 +2,7 @@ Source: fonts-urw-garamond-no8
 Section: non-free/fonts
 Priority: optional
 Maintainer: Rogério Brito <rbrito@gmail.com>
-Build-Depends:
- debhelper (>= 12~)
+Build-Depends: debhelper-compat (= 12)
 Build-Depends-Indep:
  tex-common
 Standards-Version: 4.1.4
