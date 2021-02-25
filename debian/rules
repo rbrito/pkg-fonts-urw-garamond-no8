@@ -130,4 +130,8 @@ binary-indep: build install
 binary-arch:
 
 
-.PHONY: build clean binary-indep binary-arch binary install
+.PHONY: build clean binary-indep binary-arch binary install build-indep build-arch
+
+build-indep: build
+
+build-arch:
