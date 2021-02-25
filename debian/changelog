@@ -1,3 +1,32 @@
+fonts-urw-garamond-no8 (0.0.20050707-6~1.gbp4b01a3) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @4b01a34644bd4cf104929ad06ad61cb3925c4d63 **
+
+  [ lintian-brush ]
+  * Trim trailing whitespace.
+  * debian/copyright: use spaces rather than tabs to start continuation lines.
+  * Bump debhelper from deprecated 7 to 12.
+  * Set debhelper-compat version in Build-Depends.
+  * Use canonical URL in Vcs-Git.
+  * Set Multi-Arch: foreign on package fonts-urw-garamond-no8.
+  * Add missing debian/rules targets build-indep, build-arch.
+
+  [ Rogério Brito ]
+  * Update my email address.
+  * debian/README.Debian: Fix the name of the package.
+  * debian/copyright:
+    + Use HTTPS for URLs.
+    + Extend my copyright years.
+  * debian/control:
+    + Remove DM-Upload-Allowed field.
+    + Add Vcs-* fields.
+    + State compliancy with Policy 4.1.4.
+    + State compliancy with Policy 4.5.1.
+    + Set Rules-Requires-Root to no.
+    + Normalize with wrap-and-sort.
+
+ -- Rogério Brito <rbrito@gmail.com>  Thu, 25 Feb 2021 18:40:46 -0300
+
 fonts-urw-garamond-no8 (0.0.20050707-5) unstable; urgency=low
 
   * Rename debian/*urw-garamond*.scale file to match package name.
