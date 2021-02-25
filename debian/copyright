@@ -1,6 +1,6 @@
-Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: URW Garamond No.8 fonts
-Source: http://tug.ctan.org/tex-archive/fonts/urw/garamond/
+Source: https://tug.ctan.org/tex-archive/fonts/urw/garamond/
 
 Files: *.afm *.pfb
 Copyright: 2000 by (URW)++ Design & Development
