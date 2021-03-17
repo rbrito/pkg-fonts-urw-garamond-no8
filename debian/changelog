@@ -1,6 +1,4 @@
-fonts-urw-garamond-no8 (0.0.20050707-6~2.gbp7f37be) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @7f37be8e2845f9fd9b5cecb1501ee2f8a87da029 **
+fonts-urw-garamond-no8 (0.0.20050707-6) unstable; urgency=medium
 
   [ lintian-brush ]
   * Trim trailing whitespace.
@@ -30,7 +28,7 @@ fonts-urw-garamond-no8 (0.0.20050707-6~2.gbp7f37be) UNRELEASED; urgency=medium
     + Rewrite with dh sequencer.
     + Tell dh to use '--with tex'.
 
- -- Rogério Brito <rbrito@gmail.com>  Thu, 25 Feb 2021 19:25:50 -0300
+ -- Rogério Brito <rbrito@gmail.com>  Wed, 17 Mar 2021 20:02:06 -0300
 
 fonts-urw-garamond-no8 (0.0.20050707-5) unstable; urgency=low
 
@@ -124,7 +122,6 @@ urw-garamond-no8 (0.0.20050707-1) unstable; urgency=low
   * rewrote urw-garamond-no8.scale
 
  -- Kevin Bube <k.bube@web.de>  Thu,  1 Jun 2006 21:46:32 +0200
-
 
 urw-garamond (0.0.20050707-1) unstable; urgency=low
 
